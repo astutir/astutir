@@ -1,6 +1,6 @@
 <h1 align="center">꧁༺ 𝓐𝓼𝓽𝓾𝓽𝓲 𝓡𝓪𝓱𝓶𝓪𝔀𝓪𝓽𝓲 ༻꧂
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=16&duration=5004&pause=1000&color=2929D6E3&center=true&vCenter=true&random=false&width=400&height=35&lines=Experienced+of+1%2B+years+coding+skills;Business+Intelligence+%26+DS+Enthusiast;Build+many+Portofolios+about+Data;I+believe+'Practice+makes+Perfect'+%F0%9F%98%8E+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=15&duration=5004&pause=1000&color=2929D6E3&center=true&vCenter=true&random=false&width=380&height=35&lines=Experienced+of+1%2B+years+coding+skills;Business+Intelligence+%26+DS+Enthusiast;Build+many+Portofolios+about+Data;I+believe+'Practice+makes+Perfect'+%F0%9F%98%8E+" alt="Typing SVG" /></a>
 <br>
  <br>
   <p align='center'>
